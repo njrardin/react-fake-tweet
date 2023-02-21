@@ -1,6 +1,10 @@
+dist
 *.log
 .DS_Store
-node_modules
 .cache
-dist
 .idea
+
+# npm files
+node_modules
+package-lock.json
+
