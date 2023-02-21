@@ -22,9 +22,6 @@
     "dist",
     "src"
   ],
-  "engines": {
-    "node": ">=10"
-  },
   "module": "dist/fake-tweet.esm.js",
   "size-limit": [
     {
@@ -36,6 +33,9 @@
       "limit": "15 KB"
     }
   ],
+  "engines": {
+    "node": ">=10"
+  },
   "peerDependencies": {
     "react": ">=16"
   },
