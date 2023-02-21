@@ -9,7 +9,7 @@ Tweet React component. See a [live demo](https://lluiscamino.github.io/fake-twee
 ## Installation
 
 ```bash
-npm i fake-tweet
+npm install @njrardin/react-fake-tweet
 ```
 
 ## Usage
