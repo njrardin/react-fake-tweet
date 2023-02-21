@@ -1,6 +1,6 @@
 {
   "name": "@njrardin/react-fake-tweet",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A React component to render a fake tweet with a profile image, name, username, date, text and images.",
   "author": "Nathanael Rardin <nathanaelrardin@gmail.com",
   "contributors": [
