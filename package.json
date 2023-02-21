@@ -1,7 +1,14 @@
 {
-  "version": "1.0.2",
+  "name": "@njrardin/react-fake-tweet",
+  "version": "1.0.0",
+  "description": "A React component to render a fake tweet with a profile image, name, username, date, text and images.",
+  "author": "Nathanael Rardin <nathanaelrardin@gmail.com",
+  "contributors": [
+    "Lluís Camino"
+  ],
+  "homepage": "",
   "license": "MIT",
-  "main": "dist/index.js",
+  "browser": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist",
@@ -33,18 +40,17 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "fake-tweet",
-  "description": "Tweet React Component",
   "keywords": [
     "tweet",
     "fake-tweet",
+    "react-fake-tweet",
     "twitter",
     "fake",
     "react",
-    "component"
+    "component",
+    "react-component",
+    "react-component-library"
   ],
-  "author": "Lluís Camino",
-  "homepage": "https://lluiscamino.github.io/fake-tweet",
   "module": "dist/fake-tweet.esm.js",
   "size-limit": [
     {
